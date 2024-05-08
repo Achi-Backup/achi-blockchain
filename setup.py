@@ -8,7 +8,7 @@ dependencies = [
     "alvm==0.9.6",
     "alvm_rs==0.1.7",
     "alvm_tools==0.4.3",
-    "aiohttp==3.8.6",  # HTTP server for full node rpc
+    "aiohttp==3.9.4",  # HTTP server for full node rpc
     "aiosqlite==0.17.0",  # asyncio wrapper for sqlite, to store blocks
     "bitstring==3.1.7",  # Binary data management library
     "colorlog==5.0.1",  # Adds color to logs
